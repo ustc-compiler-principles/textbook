@@ -1,0 +1,29 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "description": "课程主页",
+  "private": true,
+  "scripts": {
+    "test": "prettier --check docs && autocorrect --lint docs",
+    "format": "prettier --write docs && autocorrect --fix docs",
+    "dev": "mkdocs serve",
+    "build": "mkdocs build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ustc-compiler-principles/textbook"
+  },
+  "keywords": [
+    "ustc",
+    "course"
+  ],
+  "author": "ustc-compiler-principles",
+  "bugs": {
+    "url": "https://github.com/ustc-compiler-principles/textbook/issues"
+  },
+  "homepage": "https://github.com/ustc-compiler-principles/textbook#readme",
+  "dependencies": {
+    "autocorrect-node": "^2.8.4",
+    "prettier": "^3.1.0"
+  }
+}
