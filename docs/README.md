@@ -16,4 +16,4 @@
 
 ## 更新与联系人
 
-如有对于本实验讲义的任何问题及勘误，欢迎联系：徐伟老师（[xuweihf@ustc.edu.cn](mailto:xuweihf@ustc.edu.cn)）。
+如有对于本实验讲义的勘误及其他任何问题，欢迎联系：徐伟老师（[xuweihf@ustc.edu.cn](mailto:xuweihf@ustc.edu.cn)）。

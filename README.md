@@ -1,6 +1,6 @@
-# USTC _Principles and Techniques of Compiler_ course homepage
+# 面向自主指令集的编译器设计与实现
 
-Homepage link: <https://ustc-compiler-principles.github.io/>
+<https://ustc-compiler-principles.github.io/textbook/>
 
 This README is a toturial of how to write and preview the docs.
 
