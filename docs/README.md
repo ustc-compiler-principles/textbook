@@ -18,6 +18,6 @@
 
 如有对于本教材的勘误及其他任何问题，欢迎联系：徐伟老师（[xuweihf@ustc.edu.cn](mailto:xuweihf@ustc.edu.cn)）。
 
-## 勘误
+## 教材勘误
 
 此处更新教材的勘误信息。
