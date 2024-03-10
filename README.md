@@ -1,4 +1,4 @@
-# 面向自主指令集的编译器设计与实现
+# 现代编译器设计与实现
 
 <https://ustc-compiler-principles.github.io/textbook/>
 
