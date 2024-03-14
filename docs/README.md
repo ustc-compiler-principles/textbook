@@ -2,14 +2,18 @@
 
 李诚、徐伟，现代编译器设计与实现（实验讲义版本，高等教育出版社待出版，2023）
 
+## 教材代码
+
+[点击下载教材代码](code/教材代码.zip)
+
 ## 实验框架
 
 - 实验一：[语言解析器](lab/lab1.zip)
 - 实验二：[IR 自动生成](lab/lab2.zip)
 - 实验三：[LA64 代码生成](lab/lab3.zip)
 - 实验四：[转化为 SSA IR](lab/lab4.zip)
-- 实验五：[机器无关优化 - 常量传播与不变式外提](lab/lab5.zip)
-- 实验六：[后端优化 - 寄存器分配](lab/lab6.zip)
+- 实验五：[机器无关优化](lab/lab5.zip)
+- 实验六：[寄存器分配](lab/lab6.zip)
 
 ## 编译器设计与实现慕课
 
@@ -26,3 +30,9 @@
 ## 教材勘误
 
 此处更新教材的勘误信息。
+
+<hr>
+
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+<span style="color: grey" id="busuanzi_container_site_pv">本站总访问量 <span id="busuanzi_value_site_pv"></span> 次</span>
