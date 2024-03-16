@@ -4,16 +4,16 @@
 
 ## 教材代码
 
-[点击下载教材代码](code/教材代码.zip)
+[下载教材代码](code/教材代码.md)
 
 ## 实验框架
 
-- 实验一：[语言解析器](lab/lab1.zip)
-- 实验二：[IR 自动生成](lab/lab2.zip)
-- 实验三：[LA64 代码生成](lab/lab3.zip)
-- 实验四：[转化为 SSA IR](lab/lab4.zip)
-- 实验五：[机器无关优化](lab/lab5.zip)
-- 实验六：[寄存器分配](lab/lab6.zip)
+- 实验一：[语言解析器](lab/lab1.md)
+- 实验二：[IR 自动生成](lab/lab2.md)
+- 实验三：[LA64 代码生成](lab/lab3.md)
+- 实验四：[转化为 SSA IR](lab/lab4.md)
+- 实验五：[机器无关优化](lab/lab5.md)
+- 实验六：[寄存器分配](lab/lab6.md)
 
 ## 编译器设计与实现慕课
 
