@@ -25,7 +25,7 @@
 
 ## 其他资源
 
-[USTC 编译原理和技术 2023 - 课程主页](https://ustc-compiler-principles.github.io/2023/lab0/)
+[USTC 编译原理和技术 2023 - 课程主页](https://ustc-compiler-principles.github.io/2023/)
 
 ## 教材更新与联系人
 
